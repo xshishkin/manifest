@@ -2,12 +2,12 @@
 <manifest>
 
   <remote name="pixel"
-          fetch="https://github.com/PixelExperience"
+          fetch="https://github.com/Project-3T"
           revision="eleven"
           review="gerrit.pixelexperience.org" />
 
   <remote name="pixel-plus"
-          fetch="https://github.com/PixelExperience"
+          fetch="https://github.com/Project-3T"
           revision="eleven-plus"
           review="gerrit.pixelexperience.org" />
 
@@ -16,11 +16,11 @@
           revision="eleven" />
 
   <remote name="pixel-gitlab"
-          fetch="https://gitlab.com/PixelExperience"
+          fetch="https://gitlab.com/xshishkin"
           revision="eleven" />
 
   <remote name="pixel-gitlab-self-hosted"
-          fetch="https://gitlab.pixelexperience.org/android"
+          fetch="https://github.com/Project-3T"
           revision="eleven" />
 
   <remote name="pixel-devices-blobs"
